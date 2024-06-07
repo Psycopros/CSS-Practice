@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: tahoma;
+}
+
+/* Bacground Color */
+.bg-tomato{ background-color: tomato;}
+.bg-orange{ background-color: orange;}
+.bg-yellow{ background-color: yellow;}
+.bg-mediumseagreen{ background-color: mediumseagreen;}
+.bg-teal{ background-color: teal;}
+.bg-dodgerblue{ background-color: dodgerblue;}
+.bg-darkblue{ background-color: darkblue;}
+.bg-violet{ background-color: violet;}
+.bg-gray{ background-color: gray;}
+
+/* Text Color*/
+.text-tomato{ color: tomato;}
+.text-orange{ color: orange;}
+.text-yellow{ color: yellow;}
+.text-mediumseagreen{ color: mediumseagreen;}
+.text-teal{ color: teal;}
+.text-dodgerblue{ color: dodgerblue;}
+.text-darkblue{ color: darkblue;}
+.text-violet{ color: violet;}
+.text-gray{ color: gray;}
+
+/* border color  */
+.border-tomato{ border:2px solid tomato;}
+.border-orange{ border:2px solid orange;}
+.border-yellow{ border:2px solid yellow;}
+.border-mediumseagreen{ border:2px solid mediumseagreen;}
+.border-teal{ border:2px solid teal;}
+.border-dodgerblue{ border:2px solid dodgerblue;}
+.border-darkblue{ border:2px solid darkblue;}
+.border-violet{ border:2px solid violet;}
+.border-gray{ border:2px solid gray;}
+
+/* custom color  */
+.color-rgb{
+    background-color: rgb(83, 255, 152);
+}
+
+.color-hex{
+    background-color: #5f0093;
+}
+
+.color-hsl{
+    background-color: hsl(52, 100%, 55%);
+}
+
+/* opacity color  */
+
+.opacity-rgb{
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.opacity-hex{
+    background-color: #fefefe82;
+}
+
+.opacity-hsl{
+    background-color: hsla(0, 0%, 100%, 0.25);
+}
