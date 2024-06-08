@@ -1,40 +1,16 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-}
-.container {
+/* shorthand required in order (ignore if you dont need)
+background-color,
+background-image,
+background-repeat, 
+background-attachment, 
+background-position, 
+Separate this with "/" symbol
+background-size, 
+background-origin 
+background-clip */
+
+.shorthand{
+    background: #525252 url('../../\(00\)_CSS_asset/paper.png') no-repeat scroll top center / contain;
+    height: 200px;
     text-align: center;
-    width: 50%;
-}
-h1 {
-    margin-bottom: 20px;
-    color: #333;
-}
-.card {
-    border: 2px solid #333;
-    padding: 40px;
-    border-radius: 8px;
-    background-color: #fff;
-    text-align: center;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-.card a {
-    display: block;
-    margin: 10px 0;
-    color: #333;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 10px;
-    border: 1px solid #333;
-    border-radius: 4px;
-    transition: background-color 0.3s, color 0.3s;
-}
-.card a:hover {
-    background-color: #333;
-    color: #fff;
 }
