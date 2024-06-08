@@ -8,46 +8,7 @@ body{
 }
 
 
-/* background color */
-.bg-gray{background-color: #b8b8b8;}
-.bg-teal{background-color: #66d1a3;}
-.bg-orange{background-color: #ff9e3c;}
 
-/* background color with opacity */
-.bg-blue-100{
-    background-color: blue;
-}
-
-.bg-blue-75{
-    background-color: blue;
-    opacity: 0.75;
-}
-
-.bg-blue-50{
-    background-color: blue;
-    opacity: 0.5;
-}
-
-.bg-blue-25{
-    background-color: blue;
-    opacity: 0.25;
-}
-
-/* background color with opacity (without affecting text) */
-.bg2-blue-100{background-color: blue;}
-
-.bg2-blue-75{background-color: rgba(0, 0, 255, 0.75);}
-
-.bg2-blue-50{background-color: rgba(0, 0, 255, 0.5);}
-
-.bg2-blue-25{background-color: rgba(0, 0, 255, 0.25);}
-
-/* background image  */
-
-.bg-img{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
-
-}
 
 /* background image repeat */
 
@@ -55,6 +16,11 @@ body{
 size to make web run faster. not recomend for complex image */
 
 /* source = https://dummyimage.com/ */
+
+.bg-img{
+    background-image: url('../../\(00\)_CSS_asset/paper.png');
+
+}
 
 .bg-img-x{
     background-image: url('https://dummyimage.com/1x300/9900ff/ffffff.png');
@@ -67,13 +33,14 @@ size to make web run faster. not recomend for complex image */
 }
 
 .bg-img-nr{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
+    background-image: url('../../\(00\)_CSS_asset/paper.png');
     background-repeat: no-repeat;
 }
 
 /* background image position */
+/* try experiment with different position */
 .bg-img-pos{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
+    background-image: url('../../\(00\)_CSS_asset/paper.png');
     background-position: center;
     background-repeat: no-repeat;
 }

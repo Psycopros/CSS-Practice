@@ -5,11 +5,9 @@ body{
 /* background image  */
 
 .bg-img{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
-
+    background-image: url('../../\(00\)_CSS_asset/paper.png');
 }
 
 .bg-img2{
-    background-image: url('../\(00\)_CSS_asset/mountain.png');
-
+    background-image: url('../../\(00\)_CSS_asset/mountain.png');
 }
