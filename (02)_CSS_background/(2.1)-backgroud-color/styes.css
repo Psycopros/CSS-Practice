@@ -41,39 +41,3 @@ body{
 .bg2-blue-50{background-color: rgba(0, 0, 255, 0.5);}
 
 .bg2-blue-25{background-color: rgba(0, 0, 255, 0.25);}
-
-/* background image  */
-
-.bg-img{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
-
-}
-
-/* background image repeat */
-
-/* note this best function of X and Y is to repeat simple gradient image with 1x(more) pixel 
-size to make web run faster. not recomend for complex image */
-
-/* source = https://dummyimage.com/ */
-
-.bg-img-x{
-    background-image: url('https://dummyimage.com/1x300/9900ff/ffffff.png');
-    background-repeat: repeat-x;
-}
-
-.bg-img-y{
-    background-image: url('https://dummyimage.com/300x1/9900ff/ffffff.png');
-    background-repeat: repeat-y;
-}
-
-.bg-img-nr{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
-    background-repeat: no-repeat;
-}
-
-/* background image position */
-.bg-img-pos{
-    background-image: url('../\(00\)_CSS_asset/paper.png');
-    background-position: center;
-    background-repeat: no-repeat;
-}
