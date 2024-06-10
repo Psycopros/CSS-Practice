@@ -1,5 +1,5 @@
 
-# Javascript Practice
+# CSS Practice
 Welcome to my personal CSS learning i already master this basic many years ago but i want share my leaning example in beginner and advanced level. who knows if this gonna usefull later on 
 
 ## Repository Structure
