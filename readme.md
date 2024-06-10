@@ -11,7 +11,7 @@ Welcome to my personal CSS learning i already master this basic many years ago b
  4. Can use my skill on real world such as work and getting job
 
 ##  Resource
-Big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
+Another Big thanks to this amazing stuff i can learn CSS for free. you should give a try!
 
 **Video Learning**
 > - 
